@@ -15,5 +15,4 @@
   })
   .catch((error) => {
     const errorCode = error.code;
- * 
  */
